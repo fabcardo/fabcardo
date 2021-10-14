@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github.com/fabcardo/fabcardo/images/header.png" alt="header"/>
+  <img src="https://raw.githubusercontent.com/fabcardo/fabcardo/main/images/header.png" alt="header"/>
 
   &nbsp;
 
