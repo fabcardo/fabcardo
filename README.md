@@ -18,20 +18,17 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/fabcardo/fabcardo/main/images/header.png" alt="header"/>
 </div>
 
+\
 &nbsp;
 
-<div align="center">
 ## 💬 Ask me about
-- Backend web development
-- Frontend web development (Vue.js)
-- Docker
-- Deep Learning
+- Backend web development (Express, Laravel)
+- Frontend web development (ReactJS)
+- Mobile development (ReactNative)
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
 - Watch anime and Tv shows
 - Read some manga
 - Play videogames
 - etc.
-</div>
 
