@@ -16,12 +16,22 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/fabcardo/fabcardo/main/images/header.png" alt="header"/>
+</div>
 
-  &nbsp;
+&nbsp;
 
-  ## ⚡ Stats
+<div align="center">
+## 💬 Ask me about
+- Backend web development
+- Frontend web development (Vue.js)
+- Docker
+- Deep Learning
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=fabcardo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+## 📅 Hobbies
+- Solve programming problems at Codeforces, UVa, LeetCode
+- Watch anime and Tv shows
+- Read some manga
+- Play videogames
+- etc.
 </div>
 
