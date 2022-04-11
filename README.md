@@ -1,6 +1,7 @@
 <div align = "center">
  <h1>↪ Boas Vindas ao meu GitHub ↩</h1>
 </div>
+<br>
 
 ## 🤔 Quem sou eu 🤨
 Olá! Meu nome é Fábio. Eu sou desenvolvedor há 10 anos. Já trabalhei em software house, internamente em empresas, como freelancer e atualmente empreendo.
