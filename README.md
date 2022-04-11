@@ -1,5 +1,5 @@
 <div align = "center">
- # ↪ Boas Vindas ao meu GitHub ↩
+ <h1>↪ Boas Vindas ao meu GitHub ↩</h1>
 </div>
 
 ## 🤔 Quem sou eu 🤨
