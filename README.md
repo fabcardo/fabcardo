@@ -29,6 +29,7 @@ Olá! Meu nome é Fábio. Sou desenvolvedor full stack, já trabalhei clt em sof
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MsSql](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![Advpl](https://img.shields.io/badge/-Advpl-0077B5?style=for-the-badge)
 
 
 ## 📊 Status sobre o que eu ando fazendo por aqui 📊
