@@ -4,7 +4,7 @@
 <br>
 
 ## 🤔 Quem sou eu 🤨
-Olá! Meu nome é Fábio. Sou desenvolvedor full stack, já trabalhei clt em software houses, empresas do ramo de mineração e também pj como freelancer.
+Olá! Meu nome é Fábio, formado em sistemas de informação desde 2016. Sou desenvolvedor full stack, já trabalhei clt em software houses, empresas do ramo de mineração e também pj como freelancer.
 
 ## 🌟 Tecnologias que estou utilizando 🌟
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
