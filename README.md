@@ -1,4 +1,6 @@
-![Boas vindas ao meu Github](imagens/capa.gif)
+<div align = "center">
+ # ↪ Boas Vindas ao meu GitHub ↩
+</div>
 
 ## 🤔 Quem sou eu 🤨
 Olá! Meu nome é Fábio. Eu sou desenvolvedor há 10 anos. Já trabalhei em software house, internamente em empresas, como freelancer e atualmente empreendo.
