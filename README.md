@@ -31,11 +31,3 @@ Olá! Meu nome é Fábio, formado em sistemas de informação desde 2016, sou de
 ![MsSql](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![Advpl](https://img.shields.io/badge/-Advpl-0077B5?style=for-the-badge)
-
-
-## 📊 Status sobre o que eu ando fazendo por aqui 📊
-<div align = "center">
- 
-![Status Lelepg](https://github-readme-stats.vercel.app/api?username=fabcardo&show_icons=true&theme=dracula) 
- 
-</div>
