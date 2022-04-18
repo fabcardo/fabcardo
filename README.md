@@ -4,7 +4,7 @@
 <br>
 
 ## 🤔 Quem sou eu 🤨
-Olá! Meu nome é Fábio, formado em sistemas de informação desde 2016. Atuo como programador, tendo já trabalhado como CLT em software houses, empresas privadas e também PJ com trabalhos freelancer.
+Olá! Meu nome é Fábio, formado em sistemas de informação desde 2016, sou desenvolvedor, já trabalhei como CLT em software houses, empresas privadas e como PJ em trabalhos freelancer.
 
 ## 🌟 Tecnologias que estou utilizando 🌟
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
