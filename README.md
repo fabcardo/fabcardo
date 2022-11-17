@@ -20,7 +20,7 @@ Meu nome é Fábio, sou desenvolvedor Full Stack com mais de 8 anos de experiên
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## ⭐ Tecnologias que eu já usei ⭐
+## ⭐ Tecnologias que já utilizei ⭐
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
