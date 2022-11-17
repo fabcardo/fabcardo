@@ -4,7 +4,7 @@
 <br>
 
 ## 🤔 Quem sou eu 🤨
-Olá! Meu nome é Fábio, formado em sistemas de informação desde 2016, sou desenvolvedor, já trabalhei como CLT em software houses, empresas privadas e como PJ em trabalhos freelancer.
+Mwu nome é Fábio, sou desenvolvedor Full Stack com mais de 8 anos de experiência. Já tendo trabalho em regime CLT em empresas no ramo de mineração e em softhouses, além de experiência em regime PJ com trabalhos freelancer. Possuo sólidos conhecimentos em programação utilizando JS / TypeScript / Node / Clean Architecture / React / Vue / PHP / Laravel / Git / MySql / Postgress
 
 ## 🌟 Tecnologias que estou utilizando 🌟
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
